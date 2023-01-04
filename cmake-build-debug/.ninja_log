@@ -1,6 +1,0 @@
-# ninja log v5
-1	1173	6618137830099960	CMakeFiles/Cola_Interfaz_Arreglo.dir/Cola.cpp.obj	c302040019b0e90d
-1	796	6618149675485399	CMakeFiles/Cola_Interfaz_Arreglo.dir/main.cpp.obj	e832e47ff915b87d
-813	1087	6618149677975641	Cola_Interfaz_Arreglo.exe	7c4370df20452583
-1	263	6618953254762456	build.ninja	798c368a30d8fc1c
-1	897	6618147634759246	CMakeFiles/Cola_Interfaz_Arreglo.dir/Persona.cpp.obj	7a827f65901197cb
